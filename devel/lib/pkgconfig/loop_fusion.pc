@@ -1,0 +1,8 @@
+prefix=/home/ma/px4/Fast-Drone-250/devel
+
+Name: loop_fusion
+Description: Description of loop_fusion
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
